@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b16bb80d-9d27-4002-832d-10e1fc93e4d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/document" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/AwardReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/AwardRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/PrizeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/card/IQiYiCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/card/IQiYiCardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/DeliverReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/GoodsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/GoodsService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\softwareOfDevelopment\repository" />
+        <option name="mavenHome" value="D:/softwareOfDevelopment/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\softwareOfDevelopment\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20YUHQNBoYWLJbIRjMFmAZMKm9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/builder-factory-pattern/src/main/java/com/dexlace/factory/normal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\togithub\design-pattern\the-patterns\builder-factory-pattern\src\main\java\com\dexlace\factory\normal" />
+      <recent name="F:\togithub\design-pattern\the-patterns\builder-factory-pattern\src\main\java\com\dexlace\factory" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b16bb80d-9d27-4002-832d-10e1fc93e4d0" name="Default Changelist" comment="" />
+      <created>1636220926192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636220926192</updated>
+      <workItem from="1636220930195" duration="3736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636221237710">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="593" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1636221237710" />
+    <state x="658" y="377" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1636222975364">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="658" y="377" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1707.920@0.0.1707.920" timestamp="1636222975364" />
+    <state x="241" y="67" key="new project wizard" timestamp="1636221065886">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="67" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1636221065886" />
+  </component>
+</project>
