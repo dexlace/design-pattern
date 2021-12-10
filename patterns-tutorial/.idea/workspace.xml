@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3af992c9-f3eb-45f4-9349-3fa203e04cf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/normal/dto/AwardReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/normal/service/PrizeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/normal/vo/AwardResVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/StoreFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/ICommodity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/impl/CardCommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/impl/CouponCommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/impl/GoodsCommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/dto/DeliverDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/service/CouponService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/service/GoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/service/IQiYiCardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/vo/CouponVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/document" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/AwardReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/AwardRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/PrizeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/card/IQiYiCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/card/IQiYiCardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/DeliverReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/GoodsInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/GoodsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-patterns/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\softwareOfDevelopment\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22667bjaMxuERSoFOTMvSV811MM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\a-factory-pattern\src\main\java\com\dexlace\pattern" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\a-factory-pattern\src\main\java\com\dexlace\normal" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\a-factory-pattern\src\main\java\com\dexlace\scene" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af992c9-f3eb-45f4-9349-3fa203e04cf7" name="Default Changelist" comment="" />
+      <created>1639145523649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639145523649</updated>
+      <workItem from="1639145525027" duration="676000" />
+      <workItem from="1639146225261" duration="2491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1639147671379">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1707.920@0.0.1707.920" timestamp="1639147671379" />
+    <state x="355" y="105" key="SettingsEditor" timestamp="1639146955139">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1639146955139" />
+    <state x="241" y="101" key="new project wizard" timestamp="1639145621723">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="101" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1639145621723" />
+  </component>
+</project>
