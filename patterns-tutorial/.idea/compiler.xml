@@ -2,12 +2,21 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="c-builder-pattern" />
         <module name="a-factory-pattern" />
+        <module name="b-abstract-factory-pattern" />
+        <module name="d-prototype-pattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="c-builder-factory-pattern" target="1.8" />
+      <module name="tmp-for-leetcode" target="1.8" />
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

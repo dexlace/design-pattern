@@ -11,6 +11,9 @@
     <modules>
         <module>a-factory-pattern</module>
         <module>b-abstract-factory-pattern</module>
+        <module>d-prototype-pattern</module>
+        <module>c-builder-pattern</module>
+
     </modules>
 
     <dependencies>

@@ -22,35 +22,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af992c9-f3eb-45f4-9349-3fa203e04cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/normal/dto/AwardReqDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/normal/service/PrizeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/normal/vo/AwardResVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/StoreFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/ICommodity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/impl/CardCommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/impl/CouponCommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern/service/impl/GoodsCommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/dto/DeliverDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/service/CouponService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/service/GoodsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/service/IQiYiCardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/scene/vo/CouponVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/document" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/AwardReq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/AwardRes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/normal/PrizeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/card/IQiYiCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/card/IQiYiCardService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/coupon/CouponService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/DeliverReq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/GoodsInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/builder-factory-pattern/src/main/java/com/dexlace/factory/scene/goods/GoodsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../the-patterns/pom.xml" beforeDir="false" />
+    <list default="true" id="3af992c9-f3eb-45f4-9349-3fa203e04cf7" name="Default Changelist" comment="抽象工厂">
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/normal/DecorationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/DecorationPackageMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/IMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/ceiling/LevelOneCeiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/ceiling/LevelTwoCeiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/coat/DuluxCoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/coat/LiBangCoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/floor/DerFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/floor/ShengXiangFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/tile/DongPengTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/tile/MarcoPoloTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +51,20 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:\softwareOfDevelopment\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -82,17 +80,38 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/pattern" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\a-factory-pattern\src\main\java\com\dexlace\pattern" />
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\a-factory-pattern\src\main\java\com\dexlace\normal" />
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\a-factory-pattern\src\main\java\com\dexlace\scene" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\pattern" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\normal" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\scene" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\b-abstract-factory-pattern\src\main\java\com\dexlace\pattern" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\b-abstract-factory-pattern\src\main\java\com\dexlace\normal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\b-abstract-factory-pattern\src\main\java\com\dexlace\pattern" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.Solution" />
+      <module name="a-factory-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -106,6 +125,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,8 +140,29 @@
       <option name="presentableId" value="Default" />
       <updated>1639145523649</updated>
       <workItem from="1639145525027" duration="676000" />
-      <workItem from="1639146225261" duration="2491000" />
+      <workItem from="1639146225261" duration="6917000" />
+      <workItem from="1639219147018" duration="1754000" />
+      <workItem from="1639276129182" duration="417000" />
+      <workItem from="1639276571930" duration="8600000" />
+      <workItem from="1639402282813" duration="4061000" />
+      <workItem from="1639484235588" duration="1897000" />
+      <workItem from="1639580090464" duration="1504000" />
+      <workItem from="1639662756500" duration="1275000" />
+      <workItem from="1639744849730" duration="1410000" />
+      <workItem from="1639922245182" duration="1510000" />
+      <workItem from="1639930203528" duration="47000" />
+      <workItem from="1640007288501" duration="473000" />
+      <workItem from="1640091639231" duration="2492000" />
+      <workItem from="1640095971042" duration="3009000" />
     </task>
+    <task id="LOCAL-00001" summary="抽象工厂">
+      <created>1639324401071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639324401071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,18 +180,79 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="抽象工厂" />
+    <option name="LAST_COMMIT_MESSAGE" value="抽象工厂" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1639147671379">
+    <state x="590" y="284" key="#Notifications" timestamp="1639219164321">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
+    <state x="590" y="284" key="#Notifications/0.0.1707.920@0.0.1707.920" timestamp="1639219164321" />
+    <state x="334" y="35" key="#Project_Structure" timestamp="1640096571496">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="334" y="35" key="#Project_Structure/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640096571496" />
+    <state x="334" y="35" key="#Project_Structure/0.0.1707.920@0.0.1707.920" timestamp="1639229507723" />
+    <state x="633" y="131" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1640096470338">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="633" y="131" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640096470338" />
+    <state x="139" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1640097203891">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="139" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640097203891" />
     <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1707.920@0.0.1707.920" timestamp="1639147671379" />
-    <state x="355" y="105" key="SettingsEditor" timestamp="1639146955139">
+    <state x="706" y="230" key="FileChooserDialogImpl" timestamp="1639301328477">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1639146955139" />
-    <state x="241" y="101" key="new project wizard" timestamp="1639145621723">
+    <state x="706" y="230" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1639301328477" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1639413391458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549185" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639413391458" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1639413391457">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.center/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549184" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639413391457" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1639413391457">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.left/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549184" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639413391457" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1639413391457">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.right/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549185" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639413391457" />
+    <state x="258" y="7" key="SettingsEditor" timestamp="1640096297899">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="241" y="101" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1639145621723" />
+    <state x="258" y="7" key="SettingsEditor/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640096297899" />
+    <state x="258" y="7" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1639276434477" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1639324411529">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639324411529" />
+    <state x="552" y="58" width="603" height="804" key="find.popup" timestamp="1639922399483">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="552" y="58" width="603" height="804" key="find.popup/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639922399483" />
+    <state x="241" y="101" key="new project wizard" timestamp="1640096503003">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="101" key="new project wizard/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640096503003" />
+    <state x="241" y="101" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1639301382693" />
+    <state x="618" y="334" width="625" height="505" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1639152612412">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="618" y="334" width="625" height="505" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1707.920@0.0.1707.920" timestamp="1639152612412" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1640098557979">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640098557979" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1639152607096" />
   </component>
 </project>
