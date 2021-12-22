@@ -23,25 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af992c9-f3eb-45f4-9349-3fa203e04cf7" name="Default Changelist" comment="抽象工厂">
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/normal/DecorationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/DecorationPackageMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/IMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern/desc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/ceiling/LevelOneCeiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/ceiling/LevelTwoCeiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/coat/DuluxCoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/coat/LiBangCoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/floor/DerFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/floor/ShengXiangFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/tile/DongPengTile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/scene/tile/MarcoPoloTile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-factory-pattern/src/main/java/com/dexlace/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/normal/QuestionBankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/pattern/QuestionBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/pattern/QuestionBankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/pattern/util/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/pattern/util/TopicRandomUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/scene/AnswerQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/scene/ChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d-prototype-pattern/src/test/java/com/dexlace/PatternTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +54,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="mavenHome" value="D:\softwareOfDevelopment\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -80,25 +70,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/c-builder-pattern/src/main/java/com/dexlace/pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/d-prototype-pattern/src/main/java/com/dexlace/pattern" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\pattern" />
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\normal" />
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\scene" />
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\b-abstract-factory-pattern\src\main\java\com\dexlace\pattern" />
-      <recent name="F:\togithub\design-pattern\patterns-tutorial\b-abstract-factory-pattern\src\main\java\com\dexlace\normal" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\togithub\design-pattern\patterns-tutorial\b-abstract-factory-pattern\src\main\java\com\dexlace\pattern" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\d-prototype-pattern\src\main\java\com\dexlace\pattern" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\d-prototype-pattern\src\main\java\com\dexlace\normal" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\d-prototype-pattern\src\main\java\com\dexlace\scene" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\pattern" />
+      <recent name="F:\togithub\design-pattern\patterns-tutorial\c-builder-pattern\src\main\java\com\dexlace\normal" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PatternTest.testQuestionBank">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dexlace.Solution" />
       <module name="a-factory-pattern" />
@@ -112,21 +102,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternTest.testQuestionBank" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="d-prototype-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dexlace" />
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.PatternTest" />
+      <option name="METHOD_NAME" value="testQuestionBank" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PatternTest.testQuestionBank" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -153,7 +158,8 @@
       <workItem from="1639930203528" duration="47000" />
       <workItem from="1640007288501" duration="473000" />
       <workItem from="1640091639231" duration="2492000" />
-      <workItem from="1640095971042" duration="3009000" />
+      <workItem from="1640095971042" duration="3783000" />
+      <workItem from="1640182233535" duration="5471000" />
     </task>
     <task id="LOCAL-00001" summary="抽象工厂">
       <created>1639324401071</created>
@@ -207,25 +213,25 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="706" y="230" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1639301328477" />
-    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1639413391458">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="14" key="GridCell.Tab.0.bottom" timestamp="1640099786889">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="242" key="GridCell.Tab.0.bottom/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549185" />
+    <state width="1663" height="14" key="GridCell.Tab.0.bottom/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640099786889" />
     <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639413391458" />
-    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1639413391457">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="14" key="GridCell.Tab.0.center" timestamp="1640099786889">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="242" key="GridCell.Tab.0.center/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549184" />
+    <state width="1663" height="14" key="GridCell.Tab.0.center/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640099786889" />
     <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639413391457" />
-    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1639413391457">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="14" key="GridCell.Tab.0.left" timestamp="1640099786889">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="242" key="GridCell.Tab.0.left/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549184" />
+    <state width="1663" height="14" key="GridCell.Tab.0.left/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640099786889" />
     <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639413391457" />
-    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1639413391457">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="14" key="GridCell.Tab.0.right" timestamp="1640099786889">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="242" key="GridCell.Tab.0.right/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639404549185" />
+    <state width="1663" height="14" key="GridCell.Tab.0.right/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1640099786889" />
     <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639413391457" />
     <state x="258" y="7" key="SettingsEditor" timestamp="1640096297899">
       <screen x="0" y="0" width="1707" height="920" />
