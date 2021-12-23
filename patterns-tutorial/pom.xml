@@ -13,6 +13,7 @@
         <module>b-abstract-factory-pattern</module>
         <module>d-prototype-pattern</module>
         <module>c-builder-pattern</module>
+        <module>e-singleton-pattern</module>
 
     </modules>
 
