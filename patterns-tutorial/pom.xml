@@ -14,6 +14,7 @@
         <module>d-prototype-pattern</module>
         <module>c-builder-pattern</module>
         <module>e-singleton-pattern</module>
+        <module>f-adapter-pattern</module>
 
     </modules>
 
