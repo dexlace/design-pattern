@@ -15,6 +15,7 @@
         <module>c-builder-pattern</module>
         <module>e-singleton-pattern</module>
         <module>f-adapter-pattern</module>
+        <module>g-bridge-pattern</module>
 
     </modules>
 
