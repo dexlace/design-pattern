@@ -16,6 +16,7 @@
         <module>e-singleton-pattern</module>
         <module>f-adapter-pattern</module>
         <module>g-bridge-pattern</module>
+        <module>h-combine-pattern</module>
 
     </modules>
 
