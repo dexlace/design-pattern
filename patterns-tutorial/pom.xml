@@ -17,6 +17,7 @@
         <module>f-adapter-pattern</module>
         <module>g-bridge-pattern</module>
         <module>h-combine-pattern</module>
+        <module>i-decoration-pattern</module>
 
     </modules>
 
